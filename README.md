@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Luca 👋
+
+#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats
+![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2137&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 
 <!--
 **Luca1905/Luca1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
